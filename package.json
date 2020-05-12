@@ -1,0 +1,28 @@
+{
+  "name": "line-api-bulk",
+  "version": "1.0.0",
+  "description": "Bulk processor for LINE API to support large number of userIds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kamnan43/line-api-bulk.git"
+  },
+  "keywords": [
+    "LINE",
+    "API",
+    "multi",
+    "users"
+  ],
+  "author": "Sitthi Thiammekha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamnan43/line-api-bulk/issues"
+  },
+  "homepage": "https://github.com/kamnan43/line-api-bulk#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.4"
+  }
+}
