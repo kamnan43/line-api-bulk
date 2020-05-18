@@ -24,6 +24,7 @@ $ npm install
 ```
 
 ### Save All UserIDs in file [userIds.json]
+or you just query from your database as Array of uid string
 ```json
 [
     "U2fcb0a6f123456788901234567890123",
